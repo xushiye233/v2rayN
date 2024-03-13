@@ -1,0 +1,8 @@
+2024-01-17 10:03:40.6852-INFO v2rayN start up | v2rayN - V6.33 - 2024/01/06 | E:\v2rayN\v2rayN.exe
+2024-01-17 10:04:41.9718-INFO UpdateTaskRunSubscription
+2024-01-17 10:05:41.9735-INFO UpdateTaskRunGeo
+2024-01-17 10:07:55.5563-INFO 在文件夹 (E:\v2rayN\bin\Xray) 下未找到Core文件 (文件名:xray, wxray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2024-01-17 10:09:03.5537-INFO 在文件夹 (E:\v2rayN\bin\Xray) 下未找到Core文件 (文件名:xray, wxray)，请下载后放入文件夹，下载地址: https://github.com/XTLS/Xray-core/releases
+2024-01-17 12:42:31.5036-INFO Current_SessionEnding
+2024-01-17 12:42:31.5036-INFO MyAppExit Begin
+2024-01-17 12:42:31.6373-INFO MyAppExit End
